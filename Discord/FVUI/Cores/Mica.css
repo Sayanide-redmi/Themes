@@ -14,7 +14,7 @@
 	--warringmica:  "Choose ONE of the suggested themes";
 }
 :root{
-	--BGopacity: 80%;
+	--BGopacity: 40%;
 	--BGcolor: var(--color2);
 	--BGMica: rgba(var(--BGcolor),var(--BGopacity));
 }
